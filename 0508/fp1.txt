@@ -1,0 +1,39 @@
+All frequencies:
+Headset  :  6
+Laptop  :  5
+Monitor  :  5
+Printer  :  7
+Tablet  :  9
+
+Headset Laptop  :  4
+Headset Monitor  :  2
+Headset Printer  :  4
+Headset Tablet  :  6
+Laptop Monitor  :  2
+Laptop Printer  :  3
+Laptop Tablet  :  4
+Monitor Printer  :  3
+Monitor Tablet  :  4
+Printer Tablet  :  6
+
+Headset Laptop Monitor  :  1
+Headset Laptop Printer  :  2
+Headset Laptop Tablet  :  4
+Headset Monitor Printer  :  1
+Headset Monitor Tablet  :  2
+Headset Printer Tablet  :  4
+Laptop Monitor Printer  :  1
+Laptop Monitor Tablet  :  1
+Laptop Printer Tablet  :  2
+Monitor Printer Tablet  :  2
+
+Combinations with frequency greater than or equal to min_samples (4):
+Headset Laptop  :  4
+Headset Printer  :  4
+Headset Tablet  :  6
+Laptop Tablet  :  4
+Monitor Tablet  :  4
+Printer Tablet  :  6
+
+Headset Laptop Tablet  :  4
+Headset Printer Tablet  :  4
